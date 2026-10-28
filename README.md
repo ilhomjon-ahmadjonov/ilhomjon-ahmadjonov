@@ -15,6 +15,5 @@
 **Databases & Caching:** PostgreSQL, SQL
 
 **Tools:** Git, GitHub, Swagger
-
 ### 📫 Connect with Me
 - 💬 **Telegram:** [@Akhmadjonov7879](https://t.me/Akhmadjonov7879)
