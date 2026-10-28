@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**
-`Python` `Django` `Django REST Framework (DRF)`
+`Python` `Django` `Django REST Framework (DRF)` 'FastAPI'      
 
 **Databases & Caching:**
 `PostgreSQL` `SQL`
